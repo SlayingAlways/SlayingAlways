@@ -20,10 +20,11 @@
 
 ```javascript
   name:        "Guru Prasad Mohanty",
+  OS: Windows and Cachy OS (Linux)
   location:    "India 🇮🇳",
   role:        "Full-Stack Developer",
   focus:       "Building innovative full-stack applications",
-  passions:    ["Education Tech", "Business Solutions", "Clean Code"],
+  passions:    ["Tech", "Playing Story Games", "Chess", "Clean Code", "Solving questions"],
   currentlyLearning: ["React", "JavaScript", "System Design","Linux"],
   funFact:     "I debug with VSCode Insiders and I'm not ashamed 😄"
 ```
