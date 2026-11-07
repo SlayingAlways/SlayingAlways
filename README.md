@@ -7,8 +7,8 @@
 <img alt="Profile Banner" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczYzOXMwb3FkMnU2ZDhqY2lhZjNpYzl0cHVlbWw1cG4yODRwNHd4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif">
 
 <!-- Profile Views + Followers -->
-![](https://komarev.com/ghpvc/?username=SilenceisProgrammer)
-![GitHub Stats](https://git-graphs.vercel.app/api/user-stats.svg?username=SilenceisProgrammer&followers=true&border=#58a6ff)
+![](https://komarev.com/ghpvc/?username=SlayingAlways)
+![GitHub Stats](https://git-graphs.vercel.app/api/user-stats.svg?username=SlayingAlways&followers=true&border=#58a6ff)
 
 </div>
 
