@@ -1,4 +1,4 @@
-![Preview](./spider_man-ascii-art.png)
+![Preview](dark_port.svg)
 <div align="center">
 
 <!-- Animated Typing Header -->                                                                                                                        
