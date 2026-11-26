@@ -1,77 +1,148 @@
-![Preview](dark_port.svg)
-<div align="center">
-
-<!-- Animated Typing Header -->                                                                                                                        
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4465F7&width=435&lines=I+am+Guru+Prasad+Mohanty)](https://git.io/typing-svg)
-
-
-<!-- Profile Views + Followers -->
-![](https://komarev.com/ghpvc/?username=SlayingAlways)
-![GitHub Stats](https://git-graphs.vercel.app/api/user-stats.svg?username=SlayingAlways&followers=true&border=#58a6ff)
-
-</div>
-
-
-
-<div>
-
-## About Me
-
-```javascript
-  name:        "Guru Prasad Mohanty",
-  OS: Windows and Cachy OS (Linux)
-  location:    "India 🇮🇳",
-  role:        "Full-Stack Developer",
-  focus:       "Building innovative full-stack applications",
-  passions:    ["Tech", "Playing Story Games", "Chess", "Clean Code", "Solving questions"],
-  currentlyLearning: ["React", "JavaScript", "System Design","Linux"],
-  funFact:     "I debug with VSCode Insiders and I'm not ashamed 😄"
-```
-
-- 🔭 Passionate **Full-Stack Developer** specializing in modern web technologies
-- 💡 I love creating solutions that make a real impact in **education & business**
-- 🎯 Currently focused on building scalable, production-ready applications
-- 📍 Based in India 🇮🇳
-
----
-</div>
-
-## 💼 What I Do
-
-- 🏗️ **Full-Stack Development:** Building end-to-end web applications
-- 🎨 **UI/UX Design:** Creating intuitive and engaging user interfaces
-- 📊 **Data Management:** Implementing efficient database solutions
-- ⚡ **Performance Optimization:** Ensuring fast and reliable applications
-- 🔧 **System Architecture:** Designing scalable and maintainable code structures
-
-
-</div>
-
+<!--
+  Profile README for @SlayingAlways
+  Keep this file in the special repository: SlayingAlways/SlayingAlways
+-->
 
 <div align="center">
 
-## 📫 Connect With Me
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:312e81,100:2563eb&text=Guru%20Prasad%20Mohanty&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20for%20the%20web&descAlignY=60&descSize=16" width="100%" alt="Profile banner" />
 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Turning+ideas+into+useful+software;Learning%2C+building%2C+and+shipping+every+day" alt="Typing introduction" />
+  </a>
 
-<div align="center">
+  <p>
+    <a href="https://github.com/SlayingAlways">
+      <img src="https://komarev.com/ghpvc/?username=SlayingAlways&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile views" />
+    </a>
+    <a href="https://github.com/SlayingAlways?tab=followers">
+      <img src="https://img.shields.io/github/followers/SlayingAlways?style=for-the-badge&logo=github&label=Followers&color=0f172a" alt="GitHub followers" />
+    </a>
+    <a href="https://github.com/SlayingAlways?tab=repositories">
+      <img src="https://img.shields.io/badge/Public%20Repos-Explore-1d4ed8?style=for-the-badge&logo=github" alt="Explore repositories" />
+    </a>
+  </p>
 
-<a href="https://instagram.com/guru.jpg" style="display:inline-block; padding:10px 24px; background:linear-gradient(45deg,#833AB4,#FD1D1D,#FCB045); color:#fff; border:none; border-radius:25px;text-decoration:none; font-weight:bold;">Instagram</a>
-<a href="mailto:workwithgurupm@gmail.com" style="display:inline-block;padding:10px 24px;background:#EA4335;color:#fff;border:none;border-radius:25px;text-decoration:none;font-weight:bold;">Gmail</a>  
+  <p>
+    <a href="https://github.com/SlayingAlways">
+      <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://instagram.com/guru.jpg">
+      <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="mailto:workwithgurupm@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Let's%20connect-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+
 </div>
-</div>
-
 
 ---
 
+## About me
+
+I'm **Guru Prasad Mohanty**, a developer from **India 🇮🇳** interested in building thoughtful, practical software. I enjoy working across the stack, shaping clean interfaces, and understanding how systems work under the hood.
+
+- 💻 Interested in full-stack development and modern web technologies.
+- 🎯 Focused on building useful, scalable, and maintainable applications.
+- 🌱 Currently learning **React, JavaScript, system design, and Linux**.
+- 🐧 Daily-driving **Windows and CachyOS**.
+- ♟️ Outside code: story-driven games, chess, and solving problems.
+
+## Tech & tools
+
+<!-- Update these badges as your stack evolves. They represent tools and areas of interest, not certifications. -->
+
 <div align="center">
 
-<!-- Wave Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+  <h4>Languages & core technologies</h4>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python" alt="HTML, CSS, JavaScript, TypeScript, Python" />
 
-**"Code is like humor. When you have to explain it, it's bad."** – *Cory House*
+  <h4>Frameworks & development tools</h4>
+  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,git,github,vscode" alt="React, Vite, Node.js, Git, GitHub, VS Code" />
 
-<br/>
+  <h4>Platforms & workflow</h4>
+  <img src="https://skillicons.dev/icons?i=windows,linux,bash,figma" alt="Windows, Linux, Bash, Figma" />
 
-⭐️ From [SilenceisProgrammer](https://github.com/SilenceisProgrammer) with ❤️
+</div>
+
+## What I work on
+
+| Area | What I enjoy |
+| :--- | :--- |
+| **Full-stack development** | Building complete applications from interface to data layer |
+| **Frontend engineering** | Responsive layouts, accessible interfaces, and thoughtful interactions |
+| **Backend & data** | APIs, application logic, and dependable data handling |
+| **Developer workflow** | Git, debugging, performance, and maintainable code |
+
+## GitHub overview
+
+<div align="center">
+
+  <a href="https://github.com/SlayingAlways">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=SlayingAlways&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight" alt="GitHub profile statistics" />
+  </a>
+  <a href="https://github.com/SlayingAlways">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlayingAlways&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Most used languages" />
+  </a>
+
+  <br/>
+
+  <a href="https://github.com/SlayingAlways">
+    <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=SlayingAlways&hide_border=true&theme=tokyonight" alt="GitHub contribution streak" />
+  </a>
+
+  <br/>
+
+  <a href="https://github.com/SlayingAlways">
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SlayingAlways&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" />
+  </a>
+
+</div>
+
+<sub>Stats and language cards are generated by third-party services and may occasionally be delayed or unavailable. Language percentages reflect code in public repositories, not overall skill level.</sub>
+
+## Featured work
+
+I’m continuously building and refining projects. Browse my repositories to see what I’m working on:
+
+<div align="center">
+
+  <a href="https://github.com/SlayingAlways?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+  </a>
+  <a href="https://github.com/SlayingAlways?tab=projects">
+    <img src="https://img.shields.io/badge/View%20my%20projects-2563eb?style=for-the-badge&logo=githubprojects&logoColor=white" alt="View projects" />
+  </a>
+
+</div>
+
+## Let's connect
+
+Have an idea, collaboration, or opportunity in mind? Feel free to reach out.
+
+<div align="center">
+
+  <a href="mailto:workwithgurupm@gmail.com">
+    <img src="https://img.shields.io/badge/Email-workwithgurupm%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Guru" />
+  </a>
+  <a href="https://instagram.com/guru.jpg">
+    <img src="https://img.shields.io/badge/Instagram-%40guru.jpg-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram profile" />
+  </a>
+  <a href="https://github.com/SlayingAlways">
+    <img src="https://img.shields.io/badge/GitHub-SlayingAlways-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+
+</div>
+
+---
+
+<div align="center">
+
+  <i>"First, solve the problem. Then, write the code."</i>
+
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0f172a,50:312e81,100:2563eb" width="100%" alt="Decorative footer" />
 
 </div>
