@@ -27,7 +27,7 @@
     <a href="https://github.com/SlayingAlways">
       <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="https://instagram.com/guru.jpg">
+    <a href="https://instagram.com/gpm.jpg">
       <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     <a href="mailto:workwithgurupm@gmail.com">
