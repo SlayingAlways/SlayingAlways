@@ -60,9 +60,8 @@ An exploration of running an OpenAI OAuth integration locally.
 
 <div align="center">
 
-<a href="mailto:workwithgurupm@gmail.com">workwithgurupm@gmail.com</a><br/>
-<a href="https://instagram.com/guru.jpg">instagram.com/guru.jpg</a><br/>
-<a href="https://github.com/SlayingAlways">github.com/SlayingAlways</a>
+<a href="https://instagram.com/guru.jpg" style="display:inline-block; padding:10px 24px; background:linear-gradient(45deg,#833AB4,#FD1D1D,#FCB045); color:#fff; border:none; border-radius:25px;text-decoration:none; font-weight:bold;">Instagram</a>
+<a href="mailto:workwithgurupm@gmail.com" style="display:inline-block;padding:10px 24px;background:#EA4335;color:#fff;border:none;border-radius:25px;text-decoration:none;font-weight:bold;">Gmail</a>
 
 <br/><br/>
 <sub>Built with curiosity, patience, and a terminal.</sub>
