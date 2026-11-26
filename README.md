@@ -55,11 +55,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gyanranjan-priyam)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://gyanranjanpriyam.tech)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.gyanranjan@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SilenceisProgrammer)
-
+<a href="https://instagram.com/guru.jpg" style="display:inline-block; padding:10px 24px; background:linear-gradient(45deg,#833AB4,#FD1D1D,#FCB045); color:#fff; border:none; border-radius:25px;text-decoration:none; font-weight:bold;">Instagram</a>
+<a href="mailto:workwithgurupm@gmail.com" style="display:inline-block;padding:10px 24px;background:#EA4335;color:#fff;border:none;border-radius:25px;text-decoration:none;font-weight:bold;">Gmail</a>  
 </div>
 </div>
 
