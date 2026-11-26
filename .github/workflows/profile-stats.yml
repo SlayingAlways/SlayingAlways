@@ -1,0 +1,37 @@
+name: Update profile graphics
+
+on:
+  schedule:
+    - cron: "17 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Generate profile SVGs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_LOGIN: SlayingAlways
+        run: node scripts/generate-profile-stats.mjs
+
+      - name: Commit updated graphics
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/profile-stats.svg assets/profile-languages.svg assets/profile-contributions.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh profile statistics"
+            git push
+          fi
