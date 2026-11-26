@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-labelledby="title desc">
+<title id="title">Guru Prasad Mohanty</title><desc id="desc">Developer from India focused on building useful software.</desc>
+<rect width="900" height="220" fill="#0d1117" rx="8"/>
+<path d="M0 172H900" stroke="#30363d"/>
+<text x="38" y="54" fill="#8b949e" font-family="monospace" font-size="13" letter-spacing="3">DEVELOPER PROFILE / 2026</text>
+<text x="38" y="113" fill="#f0f6fc" font-family="monospace" font-size="35" font-weight="700">Guru Prasad Mohanty</text>
+<text x="40" y="146" fill="#8b949e" font-family="monospace" font-size="16">Full-stack developer · India</text>
+<text x="40" y="196" fill="#58a6ff" font-family="monospace" font-size="12">BUILDING THINGS THAT WORK.</text>
+<g transform="translate(706 50)" fill="none" stroke="#30363d"><rect width="150" height="112" rx="6"/><path d="M14 24H136M14 40H97M14 56H123M14 72H76M14 88H113"/></g>
+<g fill="#58a6ff"><circle cx="721" cy="74" r="3"/><circle cx="721" cy="90" r="3"/><circle cx="721" cy="106" r="3"/><circle cx="721" cy="122" r="3"/><circle cx="721" cy="138" r="3"/></g>
+</svg>
