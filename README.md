@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://github.com/SlayingAlways">github</a> &nbsp;·&nbsp;
-<a href="https://instagram.com/guru.jpg">instagram</a> &nbsp;·&nbsp;
+<a href="https://instagram.com/gpm.jpg">instagram</a> &nbsp;·&nbsp;
 <a href="mailto:workwithgurupm@gmail.com">email</a>
 
 <br/><br/>
