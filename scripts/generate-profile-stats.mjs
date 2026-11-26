@@ -122,9 +122,23 @@ calendar.weeks.forEach((week, index) => {
     lastMonth = month;
   }
 });
-const heatSvg = `<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150" role="img" aria-label="GitHub contribution calendar for the last year">
-<rect width="900" height="150" rx="8" fill="#0d1117" stroke="#30363d"/>
-<g font-family="monospace">${months.join("")}<text x="24" y="142" fill="#8b949e" font-size="10">LESS</text>${palette.map((color, i) => `<rect x="${78 + i * 16}" y="132" width="11" height="10" rx="2" fill="${color}"/>`).join("")}<text x="170" y="142" fill="#8b949e" font-size="10">MORE</text></g>${squares}</svg>`;
-await writeFile(`${out}/profile-contributions.svg`, heatSvg);
+const bannerPalette = ["#15191f", "#0e4429", "#006d32", "#26a641", "#39d353"];
+const bannerDays = calendar.weeks.flatMap(week => week.contributionDays).slice(-371);
+const bannerCell = 12, bannerGap = 4, bannerX = 18, bannerY = 34;
+const bannerSquares = bannerDays.map((day, i) => {
+  const col = Math.floor(i / 7), row = i % 7;
+  const level = day.contributionCount === 0 ? 0 : day.contributionCount < 2 ? 1 : day.contributionCount < 5 ? 2 : day.contributionCount < 9 ? 3 : 4;
+  const x = bannerX + col * (bannerCell + bannerGap), y = bannerY + row * (bannerCell + bannerGap);
+  return `<rect x="${x}" y="${y}" width="${bannerCell}" height="${bannerCell}" rx="1" fill="${bannerPalette[level]}"><title>${esc(day.date)} · ${day.contributionCount} contributions</title></rect>`;
+}).join("");
+const activeWeeks = calendar.weeks.filter(week => week.contributionDays.some(day => day.contributionCount > 0)).length;
+const lineWidth = Math.min(850, Math.max(40, Math.round(calendar.totalContributions * 3.5)));
+const bannerSvg = `<svg xmlns="http://www.w3.org/2000/svg" width="880" height="192" viewBox="0 0 880 192" role="img" aria-label="GitHub contributions pixel banner for the last year">
+<rect width="880" height="192" fill="#000000"/>
+<g>${bannerSquares}</g>
+<rect x="0" y="176" width="${lineWidth}" height="2" fill="#004d2b"/>
+<text x="868" y="188" fill="#30363d" font-family="monospace" font-size="9" text-anchor="end">${calendar.totalContributions} CONTRIBUTIONS / YEAR</text>
+</svg>`;
+await writeFile(`${out}/profile-contributions.svg`, bannerSvg);
 
 console.log(`Updated profile cards for @${login}: ${repos.length} public repositories, ${commits} contributions in the selected year.`);
