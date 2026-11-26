@@ -126,7 +126,7 @@ Have an idea, collaboration, or opportunity in mind? Feel free to reach out.
   <a href="mailto:workwithgurupm@gmail.com">
     <img src="https://img.shields.io/badge/Email-workwithgurupm%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Guru" />
   </a>
-  <a href="https://instagram.com/guru.jpg">
+  <a href="https://instagram.com/gpm.jpg">
     <img src="https://img.shields.io/badge/Instagram-%40guru.jpg-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram profile" />
   </a>
   <a href="https://github.com/SlayingAlways">
